@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: Arial, bold, sans-serif;
+    background-color: white;
+}
+
+.progresso1 {
+    margin-right: 60px;
+}
+
+.Tracinho {
+    text-align: center;
+    width: 20px;
+    height: 4px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #151E49;
+}
+
+.progresso2 {
+    margin-left: 60px;
+}
+
+.balao {
+    color: white;
+    background-color: #151E49;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.balao-diferente {
+    margin-right: 220px;
+    color: white;
+    background-color: #151E49;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 18px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+input {
+    width: 300px;
+    height: 20px;
+    border-radius: 15px;
+    border-color: #151E49;
+    border-width: 3px;
+    padding: 5px 10px;
+}
+
+.balao_interativo {
+    color: #151E49;
+    background-color: white;
+    border-color: #151E49;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 30px;
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 50px;
+    border-width: 3px;
+}
