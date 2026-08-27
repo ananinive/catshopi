@@ -1,4 +1,4 @@
-# catshopi
+# Catshopi
 Aplicativo que oferece produtos e serviços para gatos.
 
 Funcionamento: 
