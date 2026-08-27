@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catshopi</title>
+</head>
+<body>
+    <header class="topo-da-tela">
+
+        <span class="icone-menu">&#9776;</span>
+
+        <img 
+        src="https://cdn.phototourl.com/free/2026-08-27-e93e5609-5d3a-486f-ab12-d184c45c6f3b.png" alt="Catshopi">
+
+        <img 
+        src="https://cdn.phototourl.com/free/2026-08-27-27ff6916-dabd-4c20-b8c5-a4548b760253.jpg" alt="Foto de perfil" class="foto-perfil">
+    </header>
+
+    <main>
+        <img class = "logo_catshopi" src="https://cdn.phototourl.com/free/2026-08-27-e26541d4-c9f7-4ea4-9587-a501f595d50a.png" alt="Logo do Catshopi">
+        <h2 class="balao">Miau, <span id="nome-exibido-gato">Nome do gato</span>!
+        </h2>
+        <h3 class="promocao">40% off nos Produtos para seu gatinho!
+             <img
+            src="https://cdn.phototourl.com/free/2026-08-27-5271fe5b-b453-4fcd-b262-fb043179fd0f.png" alt="Produtos para seu gato">
+
+        </h3>
+
+        <h3>Categorias rápidas</h3> <br>
+
+        <div class=botao-rendodo> 
+         <img
+        scr="https://cdn.phototourl.com/free/2026-08-27-c028c0c5-0666-407a-b4b2-0ceebaa15c76.png" alt= "Ração"> <p>Ração</p>   
+        </div>
+
+        <div > 
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-fbae3c94-96eb-4f2e-9b2e-86d65876aed4.png" alt= "Produtos"> <p>Produtos</p>   
+        </div>
+
+        <div class="botao-e-texto"> 
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-85a746cb-8518-4cbb-9808-b49bde8fd1c0.png" alt= "Higiene"> <p>Higiene</p>   
+        </div>
+        
+        <div class="botao-e-texto"> 
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-26906772-e962-45b7-b89f-f4f1614bc1d0.png" alt= "Acessórios"> <p>Acessórios</p>   
+        </div>
+
+        <div class="botao-e-texto"> 
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-161661f0-5e10-463e-b2b9-fd0a8b88ff16.png" alt= "Farmácia"> <p>Farmácia</p>   
+        </div>
+        <br>
+
+        <h3>Serviços</h3> <br>
+
+        <div class="balao-claro"> <!--mais claro que o fundo (fundo pode ser um branco nao totalmente branco, mas esse balao sim (FFFFFF)-->
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-291cbc1b-0423-4365-a843-559bbefff25a.png" alt= "Banho e tosa"> 
+        <h4>Banho & Tosa  </h4> <P><em>Corte, banho e escovação com amor</em></P> 
+         </div>
+
+         <div class="balao-claro"> 
+         <img class=botao-rendodo
+        scr="https://cdn.phototourl.com/free/2026-08-27-77f28814-d3ee-4e01-a20b-a8b0821260d8.png" alt= "Vacinação"> 
+        <h4>Vacinação</h4> <P><em>Consulta e vacinação com segurança</em></P> 
+         </div>
+
+    </main>
+
+    <footer>
+        <div class="menu-inferior">
+            <img class="bola-azul"
+            scr="https://cdn.phototourl.com/free/2026-08-27-a34f5fe6-dcec-4915-863f-50546bf21855.png" alt="Serviços"
+            >
+            <img class="azul-borda-branca"
+            scr="https://cdn.phototourl.com/free/2026-08-27-0e349d4f-db12-49e8-b8d7-31f16b6ab89a.png" alt="Tela inicial"
+            >
+            <img class="bola-azul"
+            scr="https://cdn.phototourl.com/free/2026-08-27-1bc799b9-179d-4a5b-a99d-8855eb4ba0e3.png" alt="Produtos"
+            >
+
+        </div>
+    </footer>
+ 
+    <br>
