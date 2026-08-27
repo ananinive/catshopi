@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, bold, sans-serif;
+    background-color: white;
+}
+
+.balao {
+    color: white;
+    background-color: #151E49;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 30px;
+    border-radius: 22px;
+    display: inline-block;
+}
+
+p {
+    color :#151E49;
+}
+
+.nome_catshopi {
+    width: 100px;
+}
+
+.logo_catshopi {
+    width: 200px;
+}
+
+.botao_login {
+    width: 150px;
+    margin-top: 70px;
+}
+
